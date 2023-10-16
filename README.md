@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">Mobile App Developer | Flutter</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Ashraf44&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Ashraf44" />
+		   <img src="https://badges.pufler.dev/repos/Ahmed-Ashraf44" alt="Ahmed-Ashraf44" />
+		   <img src="https://img.shields.io/github/followers/Ahmed-Ashraf44?label=Followers" alt="Ahmed-Ashraf44" /></p>
 
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
 - 🔭 I’m currently working on [Notes app](https://github.com/Ahmed-Ashraf44/notes_app.git)
 
@@ -29,5 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ashraf44&show_icons=true&locale=en" alt="ahmed-ashraf44" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashraf44&" alt="ahmed-ashraf44" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashraf44&theme=algolia" alt="ahmed-ashraf44" /></p>
+
+<br>
 
