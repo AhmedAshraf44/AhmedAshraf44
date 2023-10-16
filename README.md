@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Notes app](https://github.com/Ahmed-Ashraf44/notes_app.git)
 
-- 🌱 I’m currently learning **Flutter**
+- 🏫 I’m currently learning **Flutter**
 
 - 🌱 I am a **Fresh Graduate** from the Faculty of **Computers and Artificial Intelligence, Fayoum University**
 - 💬 Ask me about **Flutter ,Dart**
