@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">Mobile App Developer | Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf44&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashraf44" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ashraf44" alt="ahmed-ashraf44" /></a> </p>
 
 - 🔭 I’m currently working on [Notes app](https://github.com/Ahmed-Ashraf44/notes_app.git)
 
