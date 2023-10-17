@@ -23,6 +23,7 @@
 - ⚡ Fun fact **teamwork ✌️**
 
 ## 📩 Connect with me
+
 <p align="center">
     <a href="mailto:aa5485111@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100010510664997&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -31,6 +32,7 @@
     
 
 ## 🛠 Languages and Tools
+
 <br>
 <p align="center">
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
