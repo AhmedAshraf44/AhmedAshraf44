@@ -16,7 +16,7 @@
 - 🌱 I am a **`Fresh Graduate`** from the Faculty of **Computers and Artificial Intelligence, Fayoum University**
 - 💬 Ask me about **`Flutter ,Dart`**
 
-- 📫 How to reach me [**aa5485111@gmail.com**](aa5485111@gmail.com)
+- 📫 How to reach me **aa5485111@gmail.com**
 
 - :nerd_face: Always `learning new things`
 
