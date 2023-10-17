@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">Mobile App Developer | Flutter</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Ashraf44&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Ashraf44" />
-		   <img src="https://badges.pufler.dev/repos/Ahmed-Ashraf44" alt="Ahmed-Ashraf44" />
-		   <img src="https://img.shields.io/github/followers/Ahmed-Ashraf44?label=Followers" alt="Ahmed-Ashraf44" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedAshraf44&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedAshraf44" />
+		   <img src="https://badges.pufler.dev/repos/AhmedAshraf44" alt="AhmedAshraf44" />
+		   <img src="https://img.shields.io/github/followers/AhmedAshraf44?label=Followers" alt="AhmedAshraf44" /></p>
 
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
-- 🔭 I’m currently working on [Notes app](https://github.com/Ahmed-Ashraf44/notes_app.git)
+- 🔭 I’m currently working on [Notes app](https://github.com/AhmedAshraf44/notes_app.git)
 
 - 🏫 I’m currently learning **`Flutter`**
 
@@ -52,12 +52,12 @@
 
 ## 📊 Github Stats
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashraf44&theme=algolia" alt="ahmed-ashraf44" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAshraf44&theme=algolia" alt="AhmedAshraf44" /></p>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="ahmed-ashraf44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-ashraf44&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ashraf44&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmed-ashraf44" height="230px"/>
+	    <img alt="AhmedAshraf44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedAshraf44&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAshraf44&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AhmedAshraf44" height="230px"/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
