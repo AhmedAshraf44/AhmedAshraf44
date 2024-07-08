@@ -9,7 +9,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
-- 🔭 I’m currently working on [Bookly App](https://github.com/AhmedAshraf44/bookly_app.git)
+- 🔭 I’m currently working on [Ekhtarly_app](https://github.com/AhmedAshraf44/ekhtarly_app.git)
 
 - 🏫 I’m currently learning **`Flutter`**
 
