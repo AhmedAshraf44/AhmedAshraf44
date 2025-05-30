@@ -9,11 +9,12 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
-- 🏫 I’m a **`Junior Flutter Developer`**
-- 
+- 🌱 I’m a **`Flutter Developer`** **with **`1+ year of experience`** building high-performance, scalable mobile applications across e-commerce, e-learning, and other domains. Passionate about creating efficient, user-friendly apps using modern architectures and clean code practices. Experienced in solving complex problems and continuously improving technical skills.**
+
+  
 - 🔭 I'm currently working on [The National Company for SW Engineering and Information Technology - NIT](https://www.linkedin.com/company/the-national-company-for-sw-engineering-and-information-technology---nit/))
 
-- 🌱 I'm a graduate from the Faculty of **`Computers and Artificial Intelligence, Fayoum University`**
+- 🏫 I'm a graduate from the Faculty of **`Computers and Artificial Intelligence, Fayoum University`**
   
 - 💬 Ask me about **`Dart ,Flutter ,RESTful APIs ,State Managment(Bloc – Provider – Getx) ,Firebase(Auth – Firestore – Storage – FCM) ,SQLite ,Hive ,Clean Architecture ,MVVM ,MVC  `**
 
