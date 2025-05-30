@@ -9,12 +9,11 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
-- 🔭 I’m currently working on [Social_Media_App](https://github.com/AhmedAshraf44/Social_Media_App)
-
-- 🏫 I’m currently learning **`Flutter`**
+- 🔭 I'm currently working on The National Company for SW Engineering and Information Technology - NIT [The National Company for SW Engineering and Information Technology - NIT]([https://github.com/AhmedAshraf44/Social_Media_App](https://www.linkedin.com/company/the-national-company-for-sw-engineering-and-information-technology---nit/))
 
 - 🌱 I am a **`Fresh Graduate`** from the Faculty of **Computers and Artificial Intelligence, Fayoum University**
-- 💬 Ask me about **`Flutter ,Dart`**
+  
+- 💬 Ask me about **`Dart ,Flutter ,RESTful APIs ,State Managment(Bloc – Provider – Getx) ,Firebase(Auth – Firestore – Storage – FCM) ,SQLite ,Hive ,Clean Architecture ,MVVM ,MVC  `**
 
 - 📫 How to reach me **aa5485111@gmail.com**
 
