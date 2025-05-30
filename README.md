@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working on [The National Company for SW Engineering and Information Technology - NIT](https://www.linkedin.com/company/the-national-company-for-sw-engineering-and-information-technology---nit/))
 
-- 🌱 I am a **`Fresh Graduate`** from the Faculty of **Computers and Artificial Intelligence, Fayoum University**
+- 🌱 I'm a graduate from the Faculty of **`Computers and Artificial Intelligence, Fayoum University`**
   
 - 💬 Ask me about **`Dart ,Flutter ,RESTful APIs ,State Managment(Bloc – Provider – Getx) ,Firebase(Auth – Firestore – Storage – FCM) ,SQLite ,Hive ,Clean Architecture ,MVVM ,MVC  `**
 
