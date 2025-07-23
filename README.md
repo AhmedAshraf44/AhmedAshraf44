@@ -9,7 +9,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
-- 🌱 I’m a **`Flutter Developer`** with **`1+ year of experience`** building high-performance, scalable mobile applications across **e-commerce, e-learning, and other domains**. Passionate about creating efficient, user-friendly apps using modern architectures and clean code practices. **Experienced in solving complex problems and continuously improving technical skills**.
+- 🌱 I’m a **`Flutter Developer`** with **`2+ year of experience`** building high-performance, scalable mobile applications across **e-commerce, e-learning, and other domains**. Passionate about creating efficient, user-friendly apps using modern architectures and clean code practices. **Experienced in solving complex problems and continuously improving technical skills**.
 
   
 - 🔭 I'm currently working on [The National Company for SW Engineering and Information Technology - NIT](https://www.linkedin.com/company/the-national-company-for-sw-engineering-and-information-technology---nit/)) as **`Flutter Developer.`**
