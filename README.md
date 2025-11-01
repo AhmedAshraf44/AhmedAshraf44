@@ -62,7 +62,11 @@ Developed in collaboration with the **Ministry of Communications and Information
 **Tech Stack:** Flutter, Dart, RESTful APIs, Provider, MVC, Zitadel Auth  
 
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ### 🍱 KartNGO Eats  
 <a href="https://play.google.com/store/apps/details?id=co.kartngo.eatx" target="_blank">
@@ -85,7 +89,11 @@ A same-day smart meal ordering and delivery app for workplaces — browse, order
 **Tech Stack:** Flutter, Dart, RESTful APIs, Provider, MVC, Localization, OTP  
 
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ### 🛒 Paypoins
 <a href="https://play.google.com/store/apps/details?id=com.nit.poins" target="_blank">
@@ -102,7 +110,11 @@ E-commerce app offering electronics, smartphones, and clothing with reward point
 **Tech Stack:** Flutter, Dart, GetX, RESTful APIs, Firebase (Auth, Firestore, Storage, Cloud Messaging), Hive, Localization  
 
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ### 🎓 Step2English 
 <a href="https://play.google.com/store/apps/details?id=com.nitg.step2english&hl=en" target="_blank">
@@ -128,7 +140,11 @@ Mobile and Windows app for learning English with native instructors and IELTS pr
 **Tech Stack:** Flutter, Dart, RESTful APIs, Provider, Firebase, MVC  
 
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ### 🐪 Camel Race
 <a href="https://play.google.com/store/apps/details?id=com.mycompany.camelrace&hl=en" target="_blank">
@@ -198,50 +214,3 @@ App specialized in buying and selling camels and accessories.
 	  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Ashraf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAshraf44&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
   </p>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-  ## 📚 Popular Repositories
-
-<p align="center">
-  <a href="https://github.com/AhmedAshraf44/My-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=My-Portfolio" />
-  </a>
-  <a href="https://github.com/AhmedAshraf44/ekhtarly_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=ekhtarly_app" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AhmedAshraf44/odc_ecommerce_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=odc_ecommerce_app" />
-  </a>
-  <a href="https://github.com/AhmedAshraf44/BuzzerApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=BuzzerApp" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AhmedAshraf44/flutter-task-AhmedAshraf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=flutter-task-AhmedAshraf" />
-  </a>
-  <a href="https://github.com/AhmedAshraf44/News_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=News_app" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AhmedAshraf44/Shopy_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=Shopy_App" />
-  </a>
-  <a href="https://github.com/AhmedAshraf44/PaymentApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAshraf44&repo=PaymentApp" />
-  </a>
-</p>
-
-
-
