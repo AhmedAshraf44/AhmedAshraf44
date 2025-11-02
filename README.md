@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedAshraf44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-	<img src="https://img.shields.io/badge/Public%20Repos-34-blue" alt="Public Repositories" />
+	<img src="https://img.shields.io/badge/Public%20Repos-35-blue" alt="Public Repositories" />
   <img src="https://img.shields.io/github/followers/AhmedAshraf44?label=Followers" alt="Followers" />
 </p>
 
