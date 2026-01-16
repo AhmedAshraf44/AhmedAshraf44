@@ -45,6 +45,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.nitg.aic.englishlearning" target="_blank">
   <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
 </a>
+<a href="https://apps.apple.com/eg/app/%D9%84%D8%BA%D8%A7%D8%AA/id6751579081" target="_blank">
+  <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
 <a href="https://www.youtube.com/watch?v=-KukFm-RuKA&list=PLA991SGMJUm6kJ7g0znP5LhgYVLWyFE2D" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="vertical-align:middle;"/>
 </a>
