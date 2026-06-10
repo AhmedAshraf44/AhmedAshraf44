@@ -169,10 +169,10 @@ It is an application specialized in selling digital recharge cards to the end us
 <br>
 
 ### 🎮 Bit4Card
-<a href="https://play.google.com/store/apps/details?id=com.multichoices.atc&hl=en" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.multichoice.bit4card&hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
 </a>
-<a href="https://apps.apple.com/us/app/atc/id1614231276" target="_blank">
+<a href="https://apps.apple.com/jo/app/bit4card-gift-game-cards/id6746261470" target="_blank">
   <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
 </a>
 
