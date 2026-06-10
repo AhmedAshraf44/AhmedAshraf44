@@ -4,7 +4,7 @@
 
 <br>
 <!-- <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1> -->
-<h3 align="center">Mobile App Developer | Flutter</h3>
+<h3 align="center">Mobile App Developer | Flutter | Fintech & Banking </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedAshraf44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,16 +16,20 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>     
 
 ## 🙋‍♂️ About Me:
-- 🌱 I’m a **`Flutter Developer`** with **`2+ year of experience`** building high-performance, scalable mobile applications across **e-commerce, e-learning, and other domains**. Passionate about creating efficient, user-friendly apps using modern architectures and clean code practices. **Experienced in solving complex problems and continuously improving technical skills**.
-
+- 🌱 I’m a **`Flutter Developer`** with hands-on experience in building and maintaining scalable mobile applications using Flutter and Dart. Experienced in 
+developing production-ready apps across **FinTech, Food Delivery, E-commerce, E-learning, and other domains**. Skilled in integrating APIs, managing app 
+releases on **Google Play, App Store, and AppGallery**, and **`implementing POS integrations on devices such as Sunmi and NeoLeap`**. Strong focus on 
+clean architecture, clean code, performance optimization, reliability, and delivering high-quality user experiences. **I actively explore emerging technologies, AI-powered solutions, and modern development practices to create innovative mobile experiences that scale with business growth**.
   
-- 🔭 I’m currently working at [KartNGo](https://www.linkedin.com/company/kartngo/posts/?feedView=all) as a **Flutter Developer.**  
+- 🔭 I’m currently working at [Multi Choice Digital systems](https://www.linkedin.com/company/multi-choice-digital-systems/posts/?feedView=all) as a **Mid-level Flutter Developer.**  
 
+- 🏢 Previously worked at [KartNGo](https://www.linkedin.com/company/kartngo/posts/?feedView=all) as a **Flutter Developer.**
+  
 - 🏢 Previously worked at [The National Company for SW Engineering and Information Technology (NIT)](https://www.linkedin.com/company/the-national-company-for-sw-engineering-and-information-technology---nit/) as a **Flutter Developer.**
 
 - 🏫 I'm a graduate from the Faculty of **`Computers and Artificial Intelligence, Fayoum University.`**
   
-- 💬 Ask me about **`Dart ,Flutter ,RESTful APIs ,State Managment(Bloc – Provider – Getx) ,Firebase(Auth – Firestore – Storage – Cloud Messaging) ,SQLite ,Hive ,Clean Architecture ,MVVM ,MVC.`**
+- 💬 Ask me about **`Dart, Flutter, Kotlin, Android, CI/CD, Testing(unit – widdget – integration testing), SOLID Principles, Design patterns, Payment Gateway, Google Maps, RESTful APIs, State Managment(Bloc – Provider – Getx), Firebase(Auth – Firestore – Storage – Cloud Messaging), SQLite, Hive, Clean Architecture, MVVM, MVC.`**
 
 - 📫 How to reach me **ahmed.ashraf.noaman@gmail.com**
 
@@ -40,6 +44,42 @@
 <br>
 
   ## 🚀 Featured Projects
+
+### 💰 NetCall – FinTech Platform 
+
+**Description:**  
+A FinTech mobile platform for electronic voucher distribution and digital recharge services, enabling distributors, merchants, and 
+sales agents to manage POS systems, electronic cards, telecom top-ups, game vouchers, and digital products. The system supports multi-level
+machine structures, dynamic product pricing, commission transfers, real-time transaction tracking, and role-based financial workflows across a 
+distributed POS network. 
+
+**Key Responsibilities:**  
+- Built the FinTech platform from scratch, including system architecture, core modules, and scalable infrastructure.
+- Designed and developed a full-featured mobile application serving multiple user roles and business workflows.
+- Contributed to building a scalable multi-tenant system supporting multiple client-specific applications.
+- Implemented a comprehensive Role-Based Access Control (RBAC) system for Distributors, Merchants, and Sales Agents.
+- Developed dynamic pricing, commission management, and settlement systems.
+- Built a multi-level POS architecture with configurable permissions and machine management capabilities.
+- Implemented the complete transaction lifecycle including deposits, withdrawals, transfers, settlements, and financial reporting.
+- Developed activation workflows, reporting dashboards, and operational management modules.
+- Integrated secure APIs with robust validation, security controls, and error handling mechanisms.
+- Improved software reliability through Unit Testing and Widget Testing.
+- Delivered responsive UI while following Clean Architecture and Clean Code principles.
+
+**`Related Applications:`**
+
+**Almohannad Card** –  A mobile application built on the same FinTech backend, supporting multiple user roles, 
+currently in production and handling hundreds of daily transactions across distributed POS systems in the Saudi 
+market.
+
+**Tech Stack:**  Flutter, Dart, RESTful APIs, Clean Architecture, Cubit, Unit Testing, Widget Testing, POS Integration, FinTech Systems
+
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ### 🗣️ Loghat (لغات)
 <a href="https://play.google.com/store/apps/details?id=com.nitg.aic.englishlearning" target="_blank">
@@ -71,6 +111,91 @@ Developed in collaboration with the **Ministry of Communications and Information
 </div>
 <br>
 
+### 💳 Purple Card
+<a href="https://play.google.com/store/apps/details?id=com.multichoice.purplrcard&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
+<a href="https://apps.apple.com/eg/app/purple-card/id6743077374" target="_blank">
+  <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
+
+**Description:**  
+Enjoy a unique experience of convenience with the Purple Card application. Whether you need recharge cards for gaming, telecom services, or reliable digital codes for your favorite platforms, Purple Card has everything you need in one place. Enjoy an easy and safe shopping experience, with quick access to the products you need, all through one app.
+
+**Key Responsibilities:**  
+- Enhanced the rewards redemption experience by implementing dynamic product availability management.
+- Developed logic to automatically hide out-of-stock products from the Points page.
+- Improved overall application stability and user experience through feature enhancements and maintenance.
+- Collaborated with backend teams to ensure accurate product synchronization and availability updates.
+
+**Tech Stack:** Flutter, Dart, RESTful APIs, Cubit, Clean Architecture.
+
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+### 💳 ATC
+<a href="https://play.google.com/store/apps/details?id=com.multichoices.atc&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
+<a href="https://apps.apple.com/us/app/atc/id1614231276" target="_blank">
+  <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
+
+**Description:**  
+Atc
+It is an application specialized in selling digital recharge cards to the end user within the Kingdom of Saudi Arabia
+- Atc offers a leading experience in the world of buying various cards
+- You can search for the required card with ease and receive it through the application, and you can share the cards easily
+- You can choose more than one card to purchase in one transaction
+- You can pay using Apple Pay, Visa, MasterCard and mada
+
+**Key Responsibilities:**  
+- Redesigned and enhanced the Login screen to align with the application's design system and improve user onboarding.
+- Updated the points display and rewards presentation on the Products page for better usability and visual consistency.
+- Improved UI responsiveness and application performance across multiple device types.
+- Participated in feature enhancements, bug fixing, and application maintenance.
+
+**Tech Stack:** Flutter, Dart, RESTful APIs, Provider, Firebase, Clean Architecture
+
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+### 🎮 Bit4Card
+<a href="https://play.google.com/store/apps/details?id=com.multichoices.atc&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
+<a href="https://apps.apple.com/us/app/atc/id1614231276" target="_blank">
+  <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
+
+**Description:**  
+Paying digital cards instantly and securely using cryptocurrencies. Whether you want to top up your favorite games, send digital gifts, or recharge your mobile, Bit4Card makes it fast, easy, and safe.
+
+The app offers a wide variety of cards to meet all your digital needs: Game Cards for PlayStation, Xbox, Steam, and more; Gift Cards for online stores and digital shopping; and more.
+
+**Key Responsibilities:**  
+- Implemented phone number registration with international country code support.
+- Enhanced user onboarding and account creation workflows.
+- Managed application release processes and deployments to both Google Play Store and Apple App Store.
+- Performed testing, bug fixing, and production support to ensure stable releases.
+
+**Tech Stack:** Flutter, Dart, RESTful APIs, Provider, Firebase, Clean Architecture
+
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 ### 🍱 KartNGO Eats  
 <a href="https://play.google.com/store/apps/details?id=co.kartngo.eatx" target="_blank">
   <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
@@ -91,7 +216,6 @@ A same-day smart meal ordering and delivery app for workplaces — browse, order
 
 **Tech Stack:** Flutter, Dart, RESTful APIs, Provider, MVC, Localization, OTP  
 
-
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -102,7 +226,10 @@ A same-day smart meal ordering and delivery app for workplaces — browse, order
 <a href="https://play.google.com/store/apps/details?id=com.nit.poins" target="_blank">
   <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
 </a>
-
+</a>
+<a href="https://apps.apple.com/eg/app/paypoins-%D8%A8%D8%A7%D9%8A%D8%A8%D9%88%D9%8A%D9%86%D8%B3/id6752801646" target="_blank">
+  <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
+</a>
 **Description:**  
 E-commerce app offering electronics, smartphones, and clothing with reward points redeemable for products and offers.  
 
