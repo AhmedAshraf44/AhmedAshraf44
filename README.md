@@ -202,12 +202,6 @@ The app offers a wide variety of cards to meet all your digital needs: Game Card
 <a href="https://play.google.com/store/apps/details?id=co.kartngo.eatx" target="_blank">
   <img src="https://img.shields.io/badge/Play%20Store-303030?style=for-the-badge&logo=google-play&logoColor=white" height="28" style="vertical-align:middle;"/>
 </a>
-<a href="https://apps.apple.com/us/app/kartngo-eats/id6749833731" target="_blank">
-  <img src="https://img.shields.io/badge/Apple%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" style="vertical-align:middle;"/>
-</a>
-<a href="https://eatsweb.kartngo.co/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=safari&logoColor=white" height="28" style="vertical-align:middle;"/>
-</a>
 
 **Description:**  
 A same-day smart meal ordering and delivery app for workplaces — browse, order, and receive meals inside your office (no fees, no waiting).  
@@ -301,10 +295,12 @@ App specialized in buying and selling camels and accessories.
 ## 📩 Connect with me
 
 <p align="center">
+    <a href="https://me.ahmedashraf.workers.dev" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-%230558C9.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
     <a href="mailto:ahmed.ashraf.noaman@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100010510664997&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ahmedashrafnoman/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
     </p>
+
     
 <br>
 <div align="center">
