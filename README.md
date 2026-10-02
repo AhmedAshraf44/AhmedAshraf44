@@ -300,7 +300,6 @@ App specialized in buying and selling camels and accessories.
 <a href="https://www.facebook.com/profile.php?id=100010510664997&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ahmedashrafnoman/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
     </p>
-
     
 <br>
 <div align="center">
